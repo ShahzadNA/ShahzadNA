@@ -1,4 +1,4 @@
-[MasterHead] https://gist.github.com/mahmudinm/47588cab5af928d2c8a2976d90216ea7/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif
+<img align="right" alt="Coding" width="640" src="https://gist.github.com/mahmudinm/47588cab5af928d2c8a2976d90216ea7/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif"
 <h1 align="center">Hi 👋, I'm ShahzadNa</h1>
 <h3 align="center">A Developer from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif"
